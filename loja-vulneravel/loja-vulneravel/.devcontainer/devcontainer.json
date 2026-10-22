@@ -1,0 +1,13 @@
+{
+  "name": "Loja Vulneravel - treinamento",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install -r requirements.txt && pip install bandit semgrep pip-audit",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python"
+      ]
+    }
+  },
+  "forwardPorts": [5000]
+}

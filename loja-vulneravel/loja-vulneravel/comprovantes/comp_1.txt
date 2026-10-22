@@ -1,0 +1,5 @@
+COMPROVANTE DE PAGAMENTO
+Pedido: 10
+Cliente: Ana
+Valor: R$ 80,00
+Status: pago

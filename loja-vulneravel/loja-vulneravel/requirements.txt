@@ -1,0 +1,6 @@
+Flask==3.0.3
+requests==2.32.3
+# Dependencia fixada DE PROPOSITO em versao com vulnerabilidade conhecida.
+# O pip-audit deve apontar CVE nesta versao do Jinja2 (Pratica 1 / A03).
+Jinja2==3.1.3
+pytest==8.3.2

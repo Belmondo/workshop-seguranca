@@ -1,0 +1,3 @@
+FLAG-SEGREDO-NAO-DEVE-VAZAR
+Este arquivo esta FORA da pasta comprovantes/ de proposito.
+Se ele aparecer em uma resposta da rota /comprovante, houve path traversal.
